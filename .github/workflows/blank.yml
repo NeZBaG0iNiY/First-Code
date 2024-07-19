@@ -1,0 +1,89 @@
+** start of undefined **
+
+<!doctype html <link rel="stylesheet" href="styles.css">
+<html>
+  <head>
+   <h1 id="title">Hello Gamer!</h1>
+   <p id="description">Favourite Chilhood Game Test</p>
+   <form id="survey-form">MK 3 or CS 1.6 ?
+     <p>
+       <input id="name" placeholder="name" required>
+     </input>
+      <label id="name-label">==> Name 
+       </label>
+     </p>
+     <input  id="email" type="email"      
+      required placeholder="email">
+      </input>
+      <label id="email-label">==> Email
+       </label>
+      </p>
+      <p>
+     <input type="number"id="number"  
+      required min="13" max="99" placeholder="age">
+      </input>
+       <label id="number-label">==> Age
+       </label>
+      </p>
+      <p>
+       <select id="dropdown">
+         <option>Choose your Warrior</option>
+         <option>Scorpion</option>
+         <option>Sub Zero</option>
+       </select>
+       </p>
+       <p>
+       <select id="dropdown">
+         <option>Choose your Weapon</option>
+         <option>AK-47</option>
+         <option>M-16</option>
+         <option>Deagle</option>
+       </select>
+       </p>
+       <p>
+        <input type="radio" value="button" name="choice1">Mortal Kombat</input>
+         <input type="radio" value="button" name="choice1">CS 1.6</input>
+        </p>
+        <p>
+        <input type="radio" value="button" name="choice2">Toasty!</input>
+        <input type="radio" value="button" name="choice2">Headshot</input>
+       </p>
+       <p>
+         <a>Last time you played MK 3...
+         </a>
+       </p>
+       <input type="checkbox" value="Up to 2000">Up to 2000
+       </input>
+       <input type="checkbox" value="After 2000">After 2000
+       </input>
+        </p>
+        <p>
+         <a>Last time you played CS 1.6...
+         </a>
+       </p>
+        <p>
+       <input type="checkbox" value="Up to 2005">Up to 2005
+       </input>
+       <input type="checkbox" value="After 2005">After 2005
+       </input>
+       </p>
+       <p>
+       <a>Describe your childhood ; </a>
+       </p>
+       <textarea>
+         </textarea>
+         <p>
+         <input type="submit" id="submit">
+         </input>
+         </p>
+   </form>
+ </head>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
